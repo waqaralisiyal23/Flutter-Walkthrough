@@ -4,7 +4,7 @@ A new Flutter package for both android and iOS which helps developers in creatin
 
 ## Screenshots
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" /> <img src="ss3.png" height="300em" /> <img src="ss4.png" height="300em" />
+<img src="ss1.PNG" height="300em" /> <img src="ss2.PNG" height="300em" /> <img src="ss3.png" height="300em" /> <img src="ss4.png" height="300em" />
 
 ## Usage
 [Example](https://github.com/siraiwaqarali/Flutter-Walkthrough/blob/master/example/example_app.dart)
