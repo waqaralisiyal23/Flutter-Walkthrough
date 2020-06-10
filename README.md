@@ -13,7 +13,7 @@ To use this package:
     dependencies:
       flutter:
         sdk: flutter
-      flutterwalkthrough:
+      walkthrough:
 ```
 
 ### How to use
