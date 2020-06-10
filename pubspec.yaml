@@ -1,6 +1,6 @@
 name: walkthrough
 description: A new Flutter package which helps developers in creating walkthrough of their app.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/siraiwaqarali/Flutter-Walkthrough.git
 
 environment:
